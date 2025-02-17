@@ -1,4 +1,4 @@
-Software Dev Student at Vilniaus Kolegija/University | Continuously Learning and Innovating in IT
+Graduated Software Dev Student at Vilniaus Kolegija | Continuously Learning IT
 
 Achievements:
 
@@ -7,6 +7,8 @@ Achievements:
  • Robotics Training (3 semesters)
 
  • Internship at Insoft - Software Dev
+ 
+ • Internship at Jollybits Games - Game Dev
  
  • Hobbies: Sports, travel, video editing
 
