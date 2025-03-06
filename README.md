@@ -1,4 +1,4 @@
-Graduated Software Dev Student at Vilniaus Kolegija | Continuously Learning IT
+ Graduated Software Dev Student at Vilniaus Kolegija
 
 Achievements:
 
