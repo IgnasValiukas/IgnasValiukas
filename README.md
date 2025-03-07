@@ -1,16 +1,8 @@
- Graduated Software Dev Student at Vilniaus Kolegija
+I’m a software engineering graduate passionate about continuous learning, especially in IT. I specialize in Python (fundamentals & beyond) and have experience with C# in game development, working on Unity projects. Throughout my studies, I explored various tools, mainly GitHub, Unity, and Adobe Suite (Premiere Pro, After Effects, Photoshop).
 
-Achievements:
+I had the opportunity to complete two IT internships—one focused on web services (Java, web galleries) and the other on game development (Unity, C#). I enjoy both backend logic and design, aiming for a perfect balance between functionality and aesthetics.
 
- • Code Academy: Web, App, and Game Development
- 
- • Robotics Training (3 semesters)
-
- • Internship at Insoft - Software Dev
- 
- • Internship at Jollybits Games - Game Dev
- 
- • Hobbies: Sports, travel, video editing
+Problem-solving excites me, whether in programming or playing puzzle games like The Room or Sudoku. I work well both independently and in teams but stay highly focused when working alone.
 
 
 <!---
